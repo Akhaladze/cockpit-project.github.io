@@ -2,7 +2,7 @@
 # official: true (official) first
 # official: nil (unofficial; non-team RH developed) second (this is omission of `official`),
 # official: false (third party) last
-
+#
 # The Cockpit group is special, it inherits source, issues, license for the `source: cockpit` entries
 cockpit:
   source: https://github.com/cockpit-project/cockpit/
